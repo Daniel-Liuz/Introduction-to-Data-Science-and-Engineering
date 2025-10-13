@@ -1,0 +1,4347 @@
+[2025-10-10T14:00:32.224+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:00:32.224+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:00:32.224+08:00] provider has no specific model SDK declared
+[2025-10-10T14:02:30.507+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:02:30.507+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:02:30.508+08:00] provider has no specific model SDK declared
+[2025-10-10T14:04:31.029+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:04:31.029+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:04:31.029+08:00] provider has no specific model SDK declared
+[2025-10-10T14:34:06.187+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:34:06.187+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:34:06.187+08:00] provider has no specific model SDK declared
+[2025-10-10T14:36:27.235+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:36:27.235+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:36:27.235+08:00] provider has no specific model SDK declared
+[2025-10-10T14:39:28.805+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:39:28.806+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:39:28.806+08:00] provider has no specific model SDK declared
+[2025-10-10T14:45:05.066+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:45:05.067+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:45:05.067+08:00] provider has no specific model SDK declared
+[2025-10-10T14:51:55.020+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:51:55.023+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:51:55.023+08:00] provider has no specific model SDK declared
+[2025-10-10T14:51:55.023+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-10T14:51:55.024+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-10T14:51:55.024+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:51:55.024+08:00] provider has no specific model SDK declared
+[2025-10-10T14:51:55.025+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-10T14:51:55.025+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-10T14:51:55.025+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:51:55.025+08:00] provider has no specific model SDK declared
+[2025-10-10T14:51:55.025+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-10T14:51:55.025+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-10T14:51:55.025+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:51:55.025+08:00] provider has no specific model SDK declared
+[2025-10-10T14:51:55.026+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-10T14:56:10.294+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T14:56:10.296+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:56:10.296+08:00] provider has no specific model SDK declared
+[2025-10-10T14:56:10.297+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-10T14:56:10.297+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-10T14:56:10.297+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:56:10.297+08:00] provider has no specific model SDK declared
+[2025-10-10T14:56:10.297+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-10T14:56:10.297+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-10T14:56:10.297+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:56:10.297+08:00] provider has no specific model SDK declared
+[2025-10-10T14:56:10.298+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-10T14:56:10.298+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-10T14:56:10.299+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T14:56:10.299+08:00] provider has no specific model SDK declared
+[2025-10-10T14:56:10.299+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-10T15:03:58.945+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T15:03:58.946+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:03:58.946+08:00] provider has no specific model SDK declared
+[2025-10-10T15:03:58.947+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-10T15:03:58.947+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-10T15:03:58.947+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:03:58.947+08:00] provider has no specific model SDK declared
+[2025-10-10T15:03:58.947+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-10T15:03:58.947+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-10T15:03:58.948+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:03:58.948+08:00] provider has no specific model SDK declared
+[2025-10-10T15:03:58.948+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-10T15:03:58.948+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-10T15:03:58.948+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:03:58.948+08:00] provider has no specific model SDK declared
+[2025-10-10T15:03:58.949+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-10T15:06:48.565+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T15:06:48.566+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:06:48.566+08:00] provider has no specific model SDK declared
+[2025-10-10T15:06:48.567+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-10T15:06:48.567+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-10T15:06:48.567+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:06:48.567+08:00] provider has no specific model SDK declared
+[2025-10-10T15:06:48.567+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-10T15:06:48.567+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-10T15:06:48.567+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:06:48.567+08:00] provider has no specific model SDK declared
+[2025-10-10T15:06:48.568+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-10T15:06:48.568+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-10T15:06:48.568+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:06:48.568+08:00] provider has no specific model SDK declared
+[2025-10-10T15:06:48.568+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-10T15:21:11.129+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-10T15:21:11.129+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:21:11.129+08:00] provider has no specific model SDK declared
+[2025-10-10T15:21:11.130+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-10T15:21:11.130+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-10T15:21:11.130+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:21:11.130+08:00] provider has no specific model SDK declared
+[2025-10-10T15:21:11.130+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-10T15:21:11.130+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-10T15:21:11.130+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:21:11.130+08:00] provider has no specific model SDK declared
+[2025-10-10T15:21:11.131+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-10T15:21:11.131+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-10T15:21:11.131+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-10T15:21:11.131+08:00] provider has no specific model SDK declared
+[2025-10-10T15:21:11.131+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T16:44:03.370+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T16:44:03.370+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:44:03.370+08:00] provider has no specific model SDK declared
+[2025-10-11T16:44:03.371+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T16:44:03.371+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T16:44:03.371+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:44:03.371+08:00] provider has no specific model SDK declared
+[2025-10-11T16:44:03.371+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T16:44:03.371+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T16:44:03.371+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:44:03.371+08:00] provider has no specific model SDK declared
+[2025-10-11T16:44:03.371+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T16:44:03.371+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T16:44:03.371+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:44:03.371+08:00] provider has no specific model SDK declared
+[2025-10-11T16:44:03.371+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T16:45:22.198+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T16:45:22.198+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:45:22.198+08:00] provider has no specific model SDK declared
+[2025-10-11T16:45:22.199+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T16:45:22.199+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T16:45:22.199+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:45:22.199+08:00] provider has no specific model SDK declared
+[2025-10-11T16:45:22.199+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T16:45:22.199+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T16:45:22.199+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:45:22.199+08:00] provider has no specific model SDK declared
+[2025-10-11T16:45:22.199+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T16:45:22.199+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T16:45:22.199+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:45:22.199+08:00] provider has no specific model SDK declared
+[2025-10-11T16:45:22.199+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T16:56:24.393+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T16:56:24.393+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:56:24.393+08:00] provider has no specific model SDK declared
+[2025-10-11T16:56:24.394+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T16:56:24.394+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T16:56:24.394+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:56:24.394+08:00] provider has no specific model SDK declared
+[2025-10-11T16:56:24.394+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T16:56:24.394+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T16:56:24.394+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:56:24.394+08:00] provider has no specific model SDK declared
+[2025-10-11T16:56:24.395+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T16:56:24.395+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T16:56:24.395+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:56:24.395+08:00] provider has no specific model SDK declared
+[2025-10-11T16:56:24.395+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T16:57:11.814+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T16:57:11.815+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:57:11.815+08:00] provider has no specific model SDK declared
+[2025-10-11T16:57:11.815+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T16:57:11.815+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T16:57:11.815+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:57:11.815+08:00] provider has no specific model SDK declared
+[2025-10-11T16:57:11.815+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T16:57:11.815+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T16:57:11.815+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:57:11.815+08:00] provider has no specific model SDK declared
+[2025-10-11T16:57:11.815+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T16:57:11.816+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T16:57:11.816+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T16:57:11.816+08:00] provider has no specific model SDK declared
+[2025-10-11T16:57:11.816+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T17:05:37.037+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T17:05:37.037+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:05:37.037+08:00] provider has no specific model SDK declared
+[2025-10-11T17:05:37.037+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T17:05:37.037+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T17:05:37.037+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:05:37.037+08:00] provider has no specific model SDK declared
+[2025-10-11T17:05:37.037+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T17:05:37.037+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T17:05:37.037+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:05:37.037+08:00] provider has no specific model SDK declared
+[2025-10-11T17:05:37.037+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T17:05:37.037+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T17:05:37.037+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:05:37.037+08:00] provider has no specific model SDK declared
+[2025-10-11T17:05:37.037+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T17:11:16.809+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T17:11:16.809+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:11:16.809+08:00] provider has no specific model SDK declared
+[2025-10-11T17:11:16.810+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T17:11:16.810+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T17:11:16.810+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:11:16.810+08:00] provider has no specific model SDK declared
+[2025-10-11T17:11:16.810+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T17:11:16.810+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T17:11:16.811+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:11:16.811+08:00] provider has no specific model SDK declared
+[2025-10-11T17:11:16.811+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T17:11:16.811+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T17:11:16.811+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:11:16.811+08:00] provider has no specific model SDK declared
+[2025-10-11T17:11:16.811+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T17:13:55.333+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T17:13:55.333+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:13:55.333+08:00] provider has no specific model SDK declared
+[2025-10-11T17:13:55.334+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T17:13:55.334+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T17:13:55.334+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:13:55.334+08:00] provider has no specific model SDK declared
+[2025-10-11T17:13:55.334+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T17:13:55.334+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T17:13:55.334+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:13:55.334+08:00] provider has no specific model SDK declared
+[2025-10-11T17:13:55.335+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T17:13:55.335+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T17:13:55.335+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:13:55.335+08:00] provider has no specific model SDK declared
+[2025-10-11T17:13:55.335+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T17:51:12.594+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T17:51:12.594+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:51:12.594+08:00] provider has no specific model SDK declared
+[2025-10-11T17:51:12.594+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T17:51:12.594+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T17:51:12.595+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:51:12.595+08:00] provider has no specific model SDK declared
+[2025-10-11T17:51:12.595+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T17:51:12.595+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T17:51:12.595+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:51:12.595+08:00] provider has no specific model SDK declared
+[2025-10-11T17:51:12.595+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T17:51:12.595+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T17:51:12.595+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:51:12.595+08:00] provider has no specific model SDK declared
+[2025-10-11T17:51:12.595+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T17:57:47.992+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T17:57:47.993+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:57:47.993+08:00] provider has no specific model SDK declared
+[2025-10-11T17:57:47.993+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T17:57:47.993+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T17:57:47.993+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:57:47.993+08:00] provider has no specific model SDK declared
+[2025-10-11T17:57:47.993+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T17:57:47.993+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T17:57:47.993+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:57:47.993+08:00] provider has no specific model SDK declared
+[2025-10-11T17:57:47.994+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T17:57:47.994+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T17:57:47.994+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T17:57:47.994+08:00] provider has no specific model SDK declared
+[2025-10-11T17:57:47.994+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:01:38.236+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:01:38.237+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:01:38.237+08:00] provider has no specific model SDK declared
+[2025-10-11T18:01:38.237+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:01:38.237+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:01:38.237+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:01:38.237+08:00] provider has no specific model SDK declared
+[2025-10-11T18:01:38.237+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:01:38.237+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:01:38.237+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:01:38.237+08:00] provider has no specific model SDK declared
+[2025-10-11T18:01:38.237+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:01:38.237+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:01:38.237+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:01:38.237+08:00] provider has no specific model SDK declared
+[2025-10-11T18:01:38.237+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:07:58.328+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:07:58.329+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:07:58.329+08:00] provider has no specific model SDK declared
+[2025-10-11T18:07:58.329+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:07:58.329+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:07:58.329+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:07:58.329+08:00] provider has no specific model SDK declared
+[2025-10-11T18:07:58.329+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:07:58.329+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:07:58.329+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:07:58.329+08:00] provider has no specific model SDK declared
+[2025-10-11T18:07:58.329+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:07:58.329+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:07:58.329+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:07:58.329+08:00] provider has no specific model SDK declared
+[2025-10-11T18:07:58.329+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:16:30.292+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:16:30.292+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:16:30.292+08:00] provider has no specific model SDK declared
+[2025-10-11T18:16:30.293+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:16:30.293+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:16:30.293+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:16:30.293+08:00] provider has no specific model SDK declared
+[2025-10-11T18:16:30.293+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:16:30.293+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:16:30.293+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:16:30.293+08:00] provider has no specific model SDK declared
+[2025-10-11T18:16:30.293+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:16:30.293+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:16:30.293+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:16:30.293+08:00] provider has no specific model SDK declared
+[2025-10-11T18:16:30.293+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:18:29.731+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:18:29.731+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:18:29.731+08:00] provider has no specific model SDK declared
+[2025-10-11T18:18:29.731+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:18:29.731+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:18:29.731+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:18:29.731+08:00] provider has no specific model SDK declared
+[2025-10-11T18:18:29.731+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:18:29.732+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:18:29.732+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:18:29.732+08:00] provider has no specific model SDK declared
+[2025-10-11T18:18:29.732+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:18:29.732+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:18:29.732+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:18:29.732+08:00] provider has no specific model SDK declared
+[2025-10-11T18:18:29.732+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:29:50.332+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:29:50.333+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:29:50.333+08:00] provider has no specific model SDK declared
+[2025-10-11T18:29:50.333+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:29:50.333+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:29:50.333+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:29:50.333+08:00] provider has no specific model SDK declared
+[2025-10-11T18:29:50.333+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:29:50.333+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:29:50.333+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:29:50.333+08:00] provider has no specific model SDK declared
+[2025-10-11T18:29:50.334+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:29:50.334+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:29:50.334+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:29:50.334+08:00] provider has no specific model SDK declared
+[2025-10-11T18:29:50.334+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:31:31.258+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:31:31.259+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:31:31.259+08:00] provider has no specific model SDK declared
+[2025-10-11T18:31:31.259+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:31:31.259+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:31:31.259+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:31:31.259+08:00] provider has no specific model SDK declared
+[2025-10-11T18:31:31.259+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:31:31.259+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:31:31.259+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:31:31.259+08:00] provider has no specific model SDK declared
+[2025-10-11T18:31:31.259+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:31:31.259+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:31:31.260+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:31:31.260+08:00] provider has no specific model SDK declared
+[2025-10-11T18:31:31.260+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:46:54.719+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:46:54.720+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:46:54.720+08:00] provider has no specific model SDK declared
+[2025-10-11T18:46:54.720+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:46:54.720+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:46:54.720+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:46:54.720+08:00] provider has no specific model SDK declared
+[2025-10-11T18:46:54.720+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:46:54.720+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:46:54.720+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:46:54.720+08:00] provider has no specific model SDK declared
+[2025-10-11T18:46:54.720+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:46:54.720+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:46:54.720+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:46:54.720+08:00] provider has no specific model SDK declared
+[2025-10-11T18:46:54.720+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:49:56.862+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:49:56.863+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:49:56.864+08:00] provider has no specific model SDK declared
+[2025-10-11T18:49:56.864+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:49:56.864+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:49:56.864+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:49:56.864+08:00] provider has no specific model SDK declared
+[2025-10-11T18:49:56.864+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:49:56.864+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:49:56.864+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:49:56.864+08:00] provider has no specific model SDK declared
+[2025-10-11T18:49:56.864+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:49:56.864+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:49:56.864+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:49:56.864+08:00] provider has no specific model SDK declared
+[2025-10-11T18:49:56.864+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T18:51:52.519+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T18:51:52.519+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:51:52.519+08:00] provider has no specific model SDK declared
+[2025-10-11T18:51:52.519+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T18:51:52.519+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T18:51:52.519+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:51:52.519+08:00] provider has no specific model SDK declared
+[2025-10-11T18:51:52.520+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T18:51:52.520+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T18:51:52.520+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:51:52.520+08:00] provider has no specific model SDK declared
+[2025-10-11T18:51:52.520+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T18:51:52.520+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T18:51:52.520+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T18:51:52.520+08:00] provider has no specific model SDK declared
+[2025-10-11T18:51:52.520+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T19:06:18.415+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T19:06:18.415+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:06:18.416+08:00] provider has no specific model SDK declared
+[2025-10-11T19:06:18.416+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T19:06:18.416+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T19:06:18.416+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:06:18.416+08:00] provider has no specific model SDK declared
+[2025-10-11T19:06:18.416+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T19:06:18.416+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T19:06:18.416+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:06:18.416+08:00] provider has no specific model SDK declared
+[2025-10-11T19:06:18.416+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T19:06:18.416+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T19:06:18.416+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:06:18.416+08:00] provider has no specific model SDK declared
+[2025-10-11T19:06:18.416+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T19:10:12.163+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T19:10:12.164+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:10:12.164+08:00] provider has no specific model SDK declared
+[2025-10-11T19:10:12.164+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T19:10:12.164+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T19:10:12.164+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:10:12.164+08:00] provider has no specific model SDK declared
+[2025-10-11T19:10:12.164+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T19:10:12.164+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T19:10:12.164+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:10:12.164+08:00] provider has no specific model SDK declared
+[2025-10-11T19:10:12.164+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T19:10:12.164+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T19:10:12.164+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:10:12.164+08:00] provider has no specific model SDK declared
+[2025-10-11T19:10:12.164+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T19:13:12.611+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T19:13:12.611+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:13:12.612+08:00] provider has no specific model SDK declared
+[2025-10-11T19:13:12.612+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T19:13:12.612+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T19:13:12.612+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:13:12.612+08:00] provider has no specific model SDK declared
+[2025-10-11T19:13:12.612+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T19:13:12.612+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T19:13:12.612+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:13:12.612+08:00] provider has no specific model SDK declared
+[2025-10-11T19:13:12.612+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T19:13:12.612+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T19:13:12.612+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:13:12.612+08:00] provider has no specific model SDK declared
+[2025-10-11T19:13:12.612+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T19:22:02.295+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T19:22:02.295+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:22:02.295+08:00] provider has no specific model SDK declared
+[2025-10-11T19:22:02.296+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T19:22:02.296+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T19:22:02.296+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:22:02.296+08:00] provider has no specific model SDK declared
+[2025-10-11T19:22:02.296+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T19:22:02.296+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T19:22:02.297+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:22:02.297+08:00] provider has no specific model SDK declared
+[2025-10-11T19:22:02.297+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T19:22:02.297+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T19:22:02.297+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:22:02.297+08:00] provider has no specific model SDK declared
+[2025-10-11T19:22:02.297+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T19:30:08.720+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T19:30:08.720+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:30:08.720+08:00] provider has no specific model SDK declared
+[2025-10-11T19:30:08.720+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T19:30:08.720+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T19:30:08.720+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:30:08.720+08:00] provider has no specific model SDK declared
+[2025-10-11T19:30:08.720+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T19:30:08.720+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T19:30:08.721+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:30:08.721+08:00] provider has no specific model SDK declared
+[2025-10-11T19:30:08.721+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T19:30:08.721+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T19:30:08.721+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:30:08.721+08:00] provider has no specific model SDK declared
+[2025-10-11T19:30:08.721+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-11T19:46:14.252+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-11T19:46:14.252+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:46:14.253+08:00] provider has no specific model SDK declared
+[2025-10-11T19:46:14.253+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-11T19:46:14.253+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-11T19:46:14.253+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:46:14.253+08:00] provider has no specific model SDK declared
+[2025-10-11T19:46:14.253+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-11T19:46:14.253+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-11T19:46:14.253+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:46:14.253+08:00] provider has no specific model SDK declared
+[2025-10-11T19:46:14.253+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-11T19:46:14.253+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-11T19:46:14.253+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-11T19:46:14.253+08:00] provider has no specific model SDK declared
+[2025-10-11T19:46:14.253+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
+[2025-10-12T14:14:28.812+08:00] decideModelConfig as legacy logic with intent VQA.
+[2025-10-12T14:14:28.812+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-12T14:14:28.812+08:00] provider has no specific model SDK declared
+[2025-10-12T14:14:28.812+08:00] decideModelConfig result by legacy logic with intent VQA: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'VQA'
+}
+[2025-10-12T14:14:28.812+08:00] decideModelConfig as legacy logic with intent default.
+[2025-10-12T14:14:28.812+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-12T14:14:28.812+08:00] provider has no specific model SDK declared
+[2025-10-12T14:14:28.812+08:00] decideModelConfig result by legacy logic with intent default: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'default'
+}
+[2025-10-12T14:14:28.812+08:00] decideModelConfig as legacy logic with intent grounding.
+[2025-10-12T14:14:28.812+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-12T14:14:28.812+08:00] provider has no specific model SDK declared
+[2025-10-12T14:14:28.812+08:00] decideModelConfig result by legacy logic with intent grounding: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'grounding'
+}
+[2025-10-12T14:14:28.812+08:00] decideModelConfig as legacy logic with intent planning.
+[2025-10-12T14:14:28.813+08:00] enter decideOpenaiSdkConfig with keys: {
+  modelName: 'MIDSCENE_MODEL_NAME',
+  socksProxy: 'MIDSCENE_OPENAI_SOCKS_PROXY',
+  httpProxy: 'MIDSCENE_OPENAI_HTTP_PROXY',
+  openaiBaseURL: 'OPENAI_BASE_URL',
+  openaiApiKey: 'OPENAI_API_KEY',
+  openaiExtraConfig: 'MIDSCENE_OPENAI_INIT_CONFIG_JSON',
+  openaiUseAzureDeprecated: 'OPENAI_USE_AZURE',
+  useAzureOpenai: 'MIDSCENE_USE_AZURE_OPENAI',
+  azureOpenaiScope: 'MIDSCENE_AZURE_OPENAI_SCOPE',
+  azureOpenaiKey: 'AZURE_OPENAI_KEY',
+  azureOpenaiEndpoint: 'AZURE_OPENAI_ENDPOINT',
+  azureOpenaiApiVersion: 'AZURE_OPENAI_API_VERSION',
+  azureOpenaiDeployment: 'AZURE_OPENAI_DEPLOYMENT',
+  azureExtraConfig: 'MIDSCENE_AZURE_OPENAI_INIT_CONFIG_JSON',
+  useAnthropicSdk: 'MIDSCENE_USE_ANTHROPIC_SDK',
+  anthropicApiKey: 'ANTHROPIC_API_KEY',
+  vlMode: 'DEFAULT_MODEL_CONFIG_KEYS has no vlMode key'
+}
+[2025-10-12T14:14:28.813+08:00] provider has no specific model SDK declared
+[2025-10-12T14:14:28.813+08:00] decideModelConfig result by legacy logic with intent planning: {
+  socksProxy: undefined,
+  httpProxy: undefined,
+  vlModeRaw: undefined,
+  openaiBaseURL: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+  openaiApiKey: 'sk-*****************************559',
+  openaiExtraConfig: undefined,
+  modelName: 'qwen-vl-max-latest',
+  vlMode: undefined,
+  uiTarsModelVersion: undefined,
+  modelDescription: '',
+  from: 'legacy-env',
+  intent: 'planning'
+}
