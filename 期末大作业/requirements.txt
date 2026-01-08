@@ -1,0 +1,10 @@
+requests 
+beautifulsoup4
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+accelerate
+pscycopg2-binary
+transformers
+torch

@@ -1,0 +1,391 @@
+[2025-10-10T14:02:30.507+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-10T14:04:31.027+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-10T14:52:09.684+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-10T14:52:20.749+08:00] will call buildDetailedLocateParam Password input { value: 'Lzy225678!' }
+[2025-10-10T14:52:27.822+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-10T14:56:22.499+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-10T14:56:33.751+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-10T14:56:42.202+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-10T15:04:17.793+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-10T15:04:30.551+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-10T15:04:48.706+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-10T15:06:58.788+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-10T15:07:08.429+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-10T15:07:21.372+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-10T15:21:29.412+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-10T15:21:38.265+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-10T15:21:50.081+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T16:44:09.789+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T16:57:22.207+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T16:57:30.147+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T16:57:42.526+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T16:58:45.586+08:00] will call buildDetailedLocateParam 点击result list下方的“Research Fields”选择框 undefined
+[2025-10-11T16:58:59.073+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T16:59:05.270+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T16:59:12.442+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T16:59:34.730+08:00] will call buildDetailedLocateParam Agriculture undefined
+[2025-10-11T16:59:44.985+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T16:59:51.344+08:00] will call buildDetailedLocateParam the "Back" button to close the filter undefined
+[2025-10-11T17:05:46.959+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T17:05:54.988+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T17:06:09.667+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T17:06:30.917+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T17:06:43.810+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T17:06:52.585+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T17:06:57.920+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T17:07:04.308+08:00] will call buildDetailedLocateParam Agricultural Sciences的+号 undefined
+[2025-10-11T17:07:15.045+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T17:07:37.205+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T17:07:49.897+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T17:08:03.475+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T17:08:13.785+08:00] will call buildDetailedLocateParam Agricultural Sciences的-号 undefined
+[2025-10-11T17:08:21.539+08:00] will call buildDetailedLocateParam Biology & Biochemistry的+号 undefined
+[2025-10-11T17:08:33.191+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T17:08:42.983+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T17:11:33.775+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T17:11:45.692+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T17:11:53.577+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T17:14:05.903+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T17:14:19.810+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T17:14:32.459+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T17:14:55.089+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T17:15:06.549+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T17:51:24.172+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T17:51:32.346+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T17:51:40.336+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T17:57:57.953+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T17:58:08.506+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T17:58:14.954+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T17:58:33.995+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T17:58:45.399+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:01:49.804+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:01:58.462+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:02:08.954+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:02:37.224+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T18:02:48.393+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:02:54.212+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:03:02.893+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:03:10.055+08:00] will call buildDetailedLocateParam Agricultural Sciences的+号 undefined
+[2025-10-11T18:03:16.940+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:03:32.421+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:03:47.968+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:03:54.548+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:04:01.272+08:00] will call buildDetailedLocateParam Agricultural Sciences的"-"号 undefined
+[2025-10-11T18:04:08.712+08:00] will call buildDetailedLocateParam Biology 的"+"号 undefined
+[2025-10-11T18:04:17.050+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:04:38.025+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:08:08.682+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:08:16.711+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:08:26.397+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:08:51.600+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T18:09:04.388+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:09:09.607+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:09:17.903+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:09:24.191+08:00] will call buildDetailedLocateParam Agricultural Sciences的+号 undefined
+[2025-10-11T18:09:31.833+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:09:39.123+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:09:53.464+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:10:02.769+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:10:10.085+08:00] will call buildDetailedLocateParam Agricultural Sciences的"一"号 undefined
+[2025-10-11T18:10:28.412+08:00] will call buildDetailedLocateParam Biology 的"+"号 undefined
+[2025-10-11T18:10:46.200+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:10:59.130+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:16:40.253+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:16:52.515+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:17:01.990+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:18:42.272+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:18:53.510+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:19:08.662+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:19:33.831+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T18:19:40.739+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:19:47.980+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:19:53.823+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:19:59.482+08:00] will call buildDetailedLocateParam Agricultural Sciences的+号 undefined
+[2025-10-11T18:20:08.014+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:20:17.227+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:20:29.792+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:20:36.146+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:20:41.686+08:00] will call buildDetailedLocateParam Agricultural Sciences的"一"号 undefined
+[2025-10-11T18:20:49.156+08:00] will call buildDetailedLocateParam Biology 的"+"号 undefined
+[2025-10-11T18:21:02.739+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:21:09.901+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:21:23.260+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:21:30.517+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:21:37.294+08:00] will call buildDetailedLocateParam Biology的"一"号 undefined
+[2025-10-11T18:21:48.218+08:00] will call buildDetailedLocateParam Chemistry 的"+"号 undefined
+[2025-10-11T18:21:58.307+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:22:05.302+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:22:21.899+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:22:28.429+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:22:34.365+08:00] will call buildDetailedLocateParam Chemistry的"一"号 undefined
+[2025-10-11T18:22:41.496+08:00] will call buildDetailedLocateParam Clinical Medicine 的"+"号 undefined
+[2025-10-11T18:22:47.875+08:00] will call buildDetailedLocateParam 点击"Indicators"那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:23:00.008+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:30:00.458+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:30:11.284+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:30:17.426+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:30:36.233+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T18:30:46.777+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:31:41.599+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:31:49.246+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:31:57.879+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:32:23.905+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T18:32:34.864+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:32:43.834+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:32:49.065+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:32:56.227+08:00] will call buildDetailedLocateParam Agricultural Sciences的+号 undefined
+[2025-10-11T18:33:03.243+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:33:10.264+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:33:23.811+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:33:31.872+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:33:38.357+08:00] will call buildDetailedLocateParam Agricultural Sciences的"一"号 undefined
+[2025-10-11T18:33:51.428+08:00] will call buildDetailedLocateParam Biology 的"+"号 undefined
+[2025-10-11T18:34:00.668+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:34:07.454+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:34:27.222+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:34:36.908+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:34:42.619+08:00] will call buildDetailedLocateParam Biology的"一"号 undefined
+[2025-10-11T18:35:01.521+08:00] will call buildDetailedLocateParam Chemistry 的"+"号 undefined
+[2025-10-11T18:35:07.958+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:35:13.865+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:35:25.585+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:35:34.440+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:35:46.222+08:00] will call buildDetailedLocateParam Chemistry的"一"号 undefined
+[2025-10-11T18:35:57.836+08:00] will call buildDetailedLocateParam Clinical Medicine 的"+"号 undefined
+[2025-10-11T18:36:05.575+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:36:14.937+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:36:33.952+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:36:43.119+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:36:49.823+08:00] will call buildDetailedLocateParam Clinical Medicine的"一"号 undefined
+[2025-10-11T18:37:02.075+08:00] will call buildDetailedLocateParam Computer Science 的"+"号 undefined
+[2025-10-11T18:37:10.261+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:37:23.043+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:37:37.654+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:37:44.794+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:37:51.529+08:00] will call buildDetailedLocateParam Computer Science的"一"号 undefined
+[2025-10-11T18:37:59.132+08:00] will call buildDetailedLocateParam Economics & Business的"+"号 undefined
+[2025-10-11T18:38:10.399+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:38:19.725+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:38:37.698+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:38:47.022+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:38:54.890+08:00] will call buildDetailedLocateParam Economics & Business的"一"号 undefined
+[2025-10-11T18:39:03.972+08:00] will call buildDetailedLocateParam Engineering的"+"号 undefined
+[2025-10-11T18:39:13.567+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:39:23.976+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:39:35.294+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:39:42.133+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:39:49.073+08:00] will call buildDetailedLocateParam Engineering的"一"号 undefined
+[2025-10-11T18:39:55.222+08:00] will call buildDetailedLocateParam Environment/Ecology的"+"号 undefined
+[2025-10-11T18:40:04.701+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:40:12.757+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:40:32.892+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:40:41.079+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:40:47.585+08:00] will call buildDetailedLocateParam Environment/Ecology的"一"号 undefined
+[2025-10-11T18:40:55.730+08:00] will call buildDetailedLocateParam Geosciences的"+"号 undefined
+[2025-10-11T18:41:02.618+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:47:04.992+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:47:13.073+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:47:21.388+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:47:45.057+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T18:47:51.938+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:50:06.759+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:50:52.363+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:51:01.034+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:52:03.961+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T18:52:14.801+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T18:52:21.810+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T18:52:47.195+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T18:52:56.511+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T18:53:05.384+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:53:10.525+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:53:19.715+08:00] will call buildDetailedLocateParam Engineering的"+"号 undefined
+[2025-10-11T18:53:29.357+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:53:36.104+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:53:47.601+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:53:58.732+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:54:04.860+08:00] will call buildDetailedLocateParam Engineering的"一"号 undefined
+[2025-10-11T18:54:14.215+08:00] will call buildDetailedLocateParam Environment的"+"号 undefined
+[2025-10-11T18:54:24.257+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:54:30.766+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:54:44.550+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:54:50.292+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:54:59.081+08:00] will call buildDetailedLocateParam Environment的"一"号 undefined
+[2025-10-11T18:55:08.271+08:00] will call buildDetailedLocateParam Geosciences的"+"号 undefined
+[2025-10-11T18:55:15.155+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:55:26.865+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T18:55:43.323+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T18:55:50.119+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T18:55:56.797+08:00] will call buildDetailedLocateParam Geosciences的"一"号 undefined
+[2025-10-11T18:56:03.536+08:00] will call buildDetailedLocateParam Immunology的"+"号 undefined
+[2025-10-11T18:56:11.122+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T18:56:22.441+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:06:28.479+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T19:06:38.592+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T19:06:49.370+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T19:07:20.872+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T19:07:30.273+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T19:07:35.846+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:07:44.042+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:08:27.156+08:00] will call buildDetailedLocateParam Immunology的"+"号 undefined
+[2025-10-11T19:08:34.472+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:08:42.683+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:10:21.934+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T19:10:32.033+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T19:10:44.413+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T19:11:12.445+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T19:11:25.409+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T19:11:31.434+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:11:39.290+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:12:24.756+08:00] will call buildDetailedLocateParam Immunology的"+"号 undefined
+[2025-10-11T19:12:35.997+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:13:22.845+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T19:13:35.674+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T19:13:47.406+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T19:14:16.860+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T19:14:31.932+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T19:14:41.409+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:14:47.515+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:15:27.766+08:00] will call buildDetailedLocateParam Immunology的"+"号 undefined
+[2025-10-11T19:15:39.925+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:15:51.104+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:22:12.853+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T19:22:20.746+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T19:22:31.501+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T19:23:01.646+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T19:23:10.436+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T19:23:16.481+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:23:22.289+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:24:02.936+08:00] will call buildDetailedLocateParam Immunology的"+"号 undefined
+[2025-10-11T19:24:22.561+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:24:31.657+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:24:45.473+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:24:52.210+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:24:58.347+08:00] will call buildDetailedLocateParam Immunology的"一"号 undefined
+[2025-10-11T19:25:33.210+08:00] will call buildDetailedLocateParam Materials Science的"+"号 undefined
+[2025-10-11T19:25:47.544+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:25:56.467+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:26:08.954+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:26:16.974+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:26:22.757+08:00] will call buildDetailedLocateParam Materials Science的"一"号 undefined
+[2025-10-11T19:27:03.696+08:00] will call buildDetailedLocateParam Mathematics的"+"号 undefined
+[2025-10-11T19:27:19.525+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:27:26.687+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:27:39.831+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:27:49.855+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:27:58.676+08:00] will call buildDetailedLocateParam Mathematics的"一"号 undefined
+[2025-10-11T19:30:19.079+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T19:30:34.019+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T19:30:40.469+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T19:31:03.527+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T19:31:16.496+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T19:31:21.357+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:31:26.158+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:31:37.261+08:00] will call buildDetailedLocateParam Agricultural Sciences的+号 undefined
+[2025-10-11T19:31:47.563+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:31:54.835+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:32:10.895+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:32:20.472+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:32:28.632+08:00] will call buildDetailedLocateParam Agricultural Sciences的"一"号 undefined
+[2025-10-11T19:32:36.631+08:00] will call buildDetailedLocateParam Biology 的"+"号 undefined
+[2025-10-11T19:32:45.309+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:32:52.503+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:33:17.059+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:33:23.771+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:33:29.562+08:00] will call buildDetailedLocateParam Biology的"一"号 undefined
+[2025-10-11T19:33:48.032+08:00] will call buildDetailedLocateParam Chemistry 的"+"号 undefined
+[2025-10-11T19:33:58.820+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:34:06.484+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:34:23.283+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:34:29.962+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:34:36.246+08:00] will call buildDetailedLocateParam Chemistry的"一"号 undefined
+[2025-10-11T19:34:44.450+08:00] will call buildDetailedLocateParam Clinical Medicine 的"+"号 undefined
+[2025-10-11T19:34:51.935+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:35:01.434+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:35:18.533+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:35:29.324+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:35:35.642+08:00] will call buildDetailedLocateParam Clinical Medicine的"一"号 undefined
+[2025-10-11T19:35:45.227+08:00] will call buildDetailedLocateParam Computer Science 的"+"号 undefined
+[2025-10-11T19:35:51.702+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:35:57.637+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:36:08.983+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:36:17.692+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:36:23.878+08:00] will call buildDetailedLocateParam Computer Science的"一"号 undefined
+[2025-10-11T19:36:31.340+08:00] will call buildDetailedLocateParam Economics & Business的"+"号 undefined
+[2025-10-11T19:36:37.765+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:36:44.121+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:37:10.869+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:37:17.196+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:37:26.877+08:00] will call buildDetailedLocateParam Economics & Business的"一"号 undefined
+[2025-10-11T19:37:34.279+08:00] will call buildDetailedLocateParam Engineering的"+"号 undefined
+[2025-10-11T19:37:45.097+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:37:56.807+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:38:09.620+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:38:20.186+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:38:26.852+08:00] will call buildDetailedLocateParam Engineering的"一"号 undefined
+[2025-10-11T19:38:39.824+08:00] will call buildDetailedLocateParam Environment的"+"号 undefined
+[2025-10-11T19:38:48.639+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:38:55.764+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:39:14.449+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:39:25.507+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:39:33.448+08:00] will call buildDetailedLocateParam Environment的"一"号 undefined
+[2025-10-11T19:39:41.191+08:00] will call buildDetailedLocateParam Geosciences的"+"号 undefined
+[2025-10-11T19:39:49.046+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:46:24.065+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-11T19:46:34.706+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-11T19:46:41.082+08:00] will call buildDetailedLocateParam Sign In button undefined
+[2025-10-11T19:47:06.717+08:00] will call buildDetailedLocateParam 点击Result lists下方的“Research Fields”选择框 undefined
+[2025-10-11T19:47:13.926+08:00] will call buildDetailedLocateParam 选择“Institutions”选项 undefined
+[2025-10-11T19:47:19.989+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:47:26.333+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:47:32.947+08:00] will call buildDetailedLocateParam Agricultural Sciences的+号 undefined
+[2025-10-11T19:47:39.835+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:47:47.071+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:47:58.907+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:48:06.944+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:48:13.329+08:00] will call buildDetailedLocateParam Agricultural Sciences的"一"号 undefined
+[2025-10-11T19:48:22.426+08:00] will call buildDetailedLocateParam Biology 的"+"号 undefined
+[2025-10-11T19:48:29.707+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:48:39.590+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:48:55.315+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:49:01.735+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:49:07.977+08:00] will call buildDetailedLocateParam Biology的"一"号 undefined
+[2025-10-11T19:49:16.884+08:00] will call buildDetailedLocateParam Chemistry 的"+"号 undefined
+[2025-10-11T19:49:24.320+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:49:34.556+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:49:51.733+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:49:58.322+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:50:05.067+08:00] will call buildDetailedLocateParam Chemistry的"一"号 undefined
+[2025-10-11T19:50:13.421+08:00] will call buildDetailedLocateParam Clinical Medicine 的"+"号 undefined
+[2025-10-11T19:50:24.940+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:50:33.931+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:50:47.022+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:50:57.275+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:51:06.283+08:00] will call buildDetailedLocateParam Clinical Medicine的"一"号 undefined
+[2025-10-11T19:51:13.281+08:00] will call buildDetailedLocateParam Computer Science 的"+"号 undefined
+[2025-10-11T19:51:23.320+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:51:33.781+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:51:46.899+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:51:53.284+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:52:02.313+08:00] will call buildDetailedLocateParam Computer Science的"一"号 undefined
+[2025-10-11T19:52:13.740+08:00] will call buildDetailedLocateParam Economics & Business的"+"号 undefined
+[2025-10-11T19:52:25.674+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:52:32.376+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:52:50.616+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:52:57.660+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:53:04.163+08:00] will call buildDetailedLocateParam Economics & Business的"一"号 undefined
+[2025-10-11T19:53:16.477+08:00] will call buildDetailedLocateParam Engineering的"+"号 undefined
+[2025-10-11T19:53:23.272+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:53:32.447+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:53:49.406+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:53:55.656+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:54:02.652+08:00] will call buildDetailedLocateParam Engineering的"一"号 undefined
+[2025-10-11T19:54:09.237+08:00] will call buildDetailedLocateParam Environment的"+"号 undefined
+[2025-10-11T19:54:23.279+08:00] will call buildDetailedLocateParam Indicators那一行的第一个按钮下载数据 undefined
+[2025-10-11T19:54:31.294+08:00] will call buildDetailedLocateParam 点击"CSV" undefined
+[2025-10-11T19:54:45.624+08:00] will call buildDetailedLocateParam the "Add Filter" link undefined
+[2025-10-11T19:54:53.455+08:00] will call buildDetailedLocateParam the "Research Fields" link undefined
+[2025-10-11T19:55:11.115+08:00] will call buildDetailedLocateParam Environment的"一"号 undefined
+[2025-10-11T19:55:53.668+08:00] will call buildDetailedLocateParam Geosciences的"+"号 undefined
+[2025-10-12T14:14:38.605+08:00] will call buildDetailedLocateParam Email address input { value: '10235501456@stu.ecnu.edu.cn' }
+[2025-10-12T14:14:48.196+08:00] will call buildDetailedLocateParam Password input { value: 'Liuziyang225678!' }
+[2025-10-12T14:14:54.909+08:00] will call buildDetailedLocateParam Sign In button undefined

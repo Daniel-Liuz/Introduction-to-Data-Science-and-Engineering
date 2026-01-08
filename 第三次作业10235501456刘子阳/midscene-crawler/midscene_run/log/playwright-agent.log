@@ -1,0 +1,160 @@
+[2025-10-11T17:07:45.639+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T17:08:52.818+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:03:45.422+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:04:48.501+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:09:50.527+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:11:07.905+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:20:24.909+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:21:19.958+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:22:13.613+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:33:23.320+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:34:22.090+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:35:22.692+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:36:32.111+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:37:42.872+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:38:27.598+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:39:32.824+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:40:25.862+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:53:45.557+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:54:41.670+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T18:55:39.681+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:16:02.357+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:24:42.979+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:26:05.634+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:27:37.056+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:32:06.534+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:33:04.891+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:34:16.359+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:35:20.777+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:36:03.799+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:37:07.473+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:38:06.050+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:39:10.049+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:47:55.821+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:48:48.039+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:49:47.010+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:50:48.559+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:51:43.819+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:52:46.483+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:53:44.252+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
+[2025-10-11T19:54:39.974+08:00] failed to goto :, error: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to ":", waiting until "load"[22m
+
