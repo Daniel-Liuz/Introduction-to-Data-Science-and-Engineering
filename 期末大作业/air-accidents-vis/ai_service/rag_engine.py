@@ -15,7 +15,7 @@ os.chdir(BASE_DIR)
 
 # 3. 使用相对路径 (Relative Path)
 EMBEDDING_PATH = "models/bge-m3"  
-LLM_PATH = "models/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+LLM_PATH = "models/deepseek-ai/7B"
 FAISS_PATH = "vector_db/accidents.index" 
 MAPPING_PATH = "vector_db/mapping.pkl"
 
@@ -24,7 +24,7 @@ class AIEngine:
         print("⏳ [1/3] 正在加载 Embedding 模型...")
         self.embed_model = SentenceTransformer(EMBEDDING_PATH, device="cuda" if torch.cuda.is_available() else "cpu")
         
-        print("⏳ [2/3] 正在加载 LLM (1.5B)...")
+        print("⏳ [2/3] 正在加载 LLM (7B)...")
         self.tokenizer = AutoTokenizer.from_pretrained(LLM_PATH)
         self.llm = AutoModelForCausalLM.from_pretrained(
             LLM_PATH, 
