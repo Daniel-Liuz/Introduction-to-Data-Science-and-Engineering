@@ -4,12 +4,11 @@ import os
 import glob
 
 # ================= 配置区域 =================
-# 请修改为你的真实数据库信息
 DB_USER = "postgres"       # 数据库用户名
 DB_PASS = "1234"  # 数据库密码
 DB_HOST = "localhost"
 DB_PORT = "5432"
-DB_NAME = "aviation_safety" # 你刚才创建的数据库名
+DB_NAME = "aviation_safety" # 数据库名
 
 # CSV 文件匹配模式 (匹配 asn_cc_20.csv 到 asn_cc_25.csv)
 CSV_PATTERN = "asn_cc_*.csv" 
