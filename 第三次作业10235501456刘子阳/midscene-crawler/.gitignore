@@ -3,3 +3,4 @@ midscene_run/midscene-report
 midscene_run/dump-logger
 node_modules
 package-lock.json
+.env
