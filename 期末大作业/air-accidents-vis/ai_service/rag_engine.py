@@ -4,85 +4,121 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
+import pickle 
 
 # --- 路径配置 ---
+# 1. 获取当前脚本所在目录
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-EMBEDDING_PATH = os.path.join(BASE_DIR, "models", "bge-m3")
-LLM_PATH = os.path.join(BASE_DIR, "models", "deepseek-ai", "DeepSeek-R1-Distill-Qwen-1.5B")
-FAISS_PATH = os.path.join(BASE_DIR, "vector_db", "accidents.index")
+
+# 2. 强行把 Python 的工作目录切换到 ai_service 文件夹
+os.chdir(BASE_DIR)
+
+# 3. 使用相对路径 (Relative Path)
+EMBEDDING_PATH = "models/bge-m3"  
+LLM_PATH = "models/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+FAISS_PATH = "vector_db/accidents.index" 
+MAPPING_PATH = "vector_db/mapping.pkl"
 
 class AIEngine:
     def __init__(self):
-        print("⏳ 正在加载 Embedding 模型...")
-        self.embed_model = SentenceTransformer(EMBEDDING_PATH)
+        print("⏳ [1/3] 正在加载 Embedding 模型...")
+        self.embed_model = SentenceTransformer(EMBEDDING_PATH, device="cuda" if torch.cuda.is_available() else "cpu")
         
-        print("⏳ 正在加载 LLM (可能需要一点时间)...")
-        # 1.5B 模型较小，可以用 float16 跑
+        print("⏳ [2/3] 正在加载 LLM (1.5B)...")
         self.tokenizer = AutoTokenizer.from_pretrained(LLM_PATH)
         self.llm = AutoModelForCausalLM.from_pretrained(
             LLM_PATH, 
             torch_dtype=torch.float16, 
-            device_map="auto" # 如果有显卡会自动用，没显卡用 CPU
+            device_map="auto"
         )
         
-        print("⏳ 正在加载向量数据库...")
-        if os.path.exists(FAISS_PATH):
-            self.index = faiss.read_index(FAISS_PATH)
-            # 这里还需要加载对应的文本数据（通常需要一个 mapping 文件，简单起见假设我们只检索ID）
-            # 实际项目中，你需要把 accident_id 和 index 对应起来
+        print(f"⏳ [3/3] 正在加载向量数据库: {FAISS_PATH}")
+        self.index = None
+        self.metadata = []
+        
+        # ⚠️ 这里增加了详细的路径检查
+        if os.path.exists(FAISS_PATH) and os.path.exists(MAPPING_PATH):
+            try:
+                self.index = faiss.read_index(FAISS_PATH)
+                with open(MAPPING_PATH, 'rb') as f:
+                    self.metadata = pickle.load(f)
+                print(f"✅ 向量库加载成功，包含 {self.index.ntotal} 条记录")
+            except Exception as e:
+                print(f"❌ 加载向量库文件出错: {e}")
         else:
-            self.index = None
-            print("⚠️ 未找到向量库，请先运行 ingest.py")
-
-        print("✅ AI 引擎初始化完成！")
-
-    def get_embedding(self, text):
-        return self.embed_model.encode([text])[0]
+            print(f"❌ 未找到向量库文件！\n请检查: {FAISS_PATH}")
+            print("请先运行 ingest.py 生成数据。")
 
     def search(self, query, top_k=3):
+        """
+        语义搜索：将问题转向量 -> 在 FAISS 搜相似向量 -> 返回对应的元数据
+        """
         if not self.index:
             return []
         
-        vector = self.get_embedding(query)
-        # FAISS 需要二维数组
-        vector = np.array([vector]).astype('float32')
-        distances, indices = self.index.search(vector, top_k)
+        # 1. 向量化问题
+        query_vec = self.embed_model.encode([query], normalize_embeddings=True)
+        query_vec = np.array(query_vec).astype('float32')
         
-        # 这里返回的是索引 ID，你需要回数据库查具体内容，或者在构建索引时把内容也存了
-        # 为了演示简单，我们假设我们有一个 look_up 函数
-        return indices[0]
+        # 2. 搜索
+        distances, indices = self.index.search(query_vec, top_k)
+        
+        # 3. 提取结果 (将 ID 转换为具体的文本字典)
+        results = []
+        for idx in indices[0]:
+            if idx != -1 and idx < len(self.metadata):
+                results.append(self.metadata[idx])
+        
+        return results
 
-    def generate_answer(self, query, context):
-        # 构造 Prompt
-        prompt = f"""
-        你是一个航空安全专家。基于以下已知信息回答用户问题。如果无法从信息中得到答案，请说明。
-        
-        【已知信息】：
-        {context}
-        
-        【用户问题】：
-        {query}
-        
-        【回答】：
+    def generate_answer(self, query, retrieved_docs):
         """
+        RAG 生成：Context + Question -> LLM -> Answer
+        """
+        # 构造上下文文本
+        context_str = ""
+        for i, doc in enumerate(retrieved_docs):
+            # 安全获取字段，防止 None 报错
+            date = doc.get('date', 'Unknown')
+            type_ = doc.get('type', 'Unknown')
+            narrative = doc.get('narrative', '')
+            context_str += f"【事故记录 {i+1}】\n时间: {date}\n机型: {type_}\n详情: {narrative}\n\n"
+
+        # 构造 Prompt
+        prompt = f"""<|im_start|>system
+你是一个专业的航空安全分析师。请根据下面提供的【事故记录】来回答用户的【问题】。
+如果记录中没有答案，请使用你的通用知识回答，并明确说明。回答要用中文，并且要简洁、专业。
+<|im_end|>
+<|im_start|>user
+【事故记录】：
+{context_str}
+
+【问题】：
+{query}
+<|im_end|>
+<|im_start|>assistant
+"""
         
         inputs = self.tokenizer(prompt, return_tensors="pt").to(self.llm.device)
         attention_mask = inputs.get("attention_mask")
+        
         with torch.no_grad():
             outputs = self.llm.generate(
-            inputs.input_ids, 
-            attention_mask=attention_mask, # 传入这个参数
-            pad_token_id=self.tokenizer.eos_token_id, # 明确指定停止符
-            max_new_tokens=512,
-            temperature=0.6,
-            top_p=0.9,
-            do_sample=True # 允许采样
+                inputs.input_ids, 
+                attention_mask=attention_mask,
+                pad_token_id=self.tokenizer.eos_token_id, 
+                max_new_tokens=512,
+                temperature=0.6,
+                top_p=0.9,
+                do_sample=True
             )
-    
             
         response = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-        # 简单截取回答部分（根据实际模型输出调整）
-        return response.split("【回答】：")[-1]
+        
+        # 清理掉 Prompt 部分，只保留回答
+        if "assistant\n" in response:
+            return response.split("assistant\n")[-1]
+        return response
 
-# 单例模式
+# 单例
 engine = AIEngine()
