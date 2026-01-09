@@ -16,4 +16,9 @@
   npm start
   ```
 
-  
+- agent目录为`./ai_service`，启动ai微服务
+
+```bash
+cd ./ai_service
+python app.py
+ ```

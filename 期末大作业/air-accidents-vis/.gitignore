@@ -25,3 +25,4 @@ dist-ssr
 
 ai_service/models
 ai_service/vector_db
+ai_service/__pycache__
